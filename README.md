@@ -14,7 +14,7 @@
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-###🔧 Version Control
+### 🔧 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
 
@@ -28,4 +28,5 @@
 
 ## 📬 Contact Me
 
-[![Instagram](https://img.shields.io/badge/instagram.com)](https://instagram.com/gonza_camelino)
+[![Instagram](https://img.shields.io/badge/@gonzaa_camelino-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gonzaa_camelino)
+[![Gmail](https://img.shields.io/badge/gonzalo@email.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gonzalocamelino04@gmail.com)
