@@ -29,4 +29,4 @@
 ## 📬 Contact Me
 
 [![Instagram](https://img.shields.io/badge/@gonzaa_camelino-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gonzaa_camelino)
-[![Gmail](https://img.shields.io/badge/gonzalo@email.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gonzalocamelino04@gmail.com)
+[![Gmail](https://img.shields.io/badge/gonzalocamelino04@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gonzalocamelino04@gmail.com)
